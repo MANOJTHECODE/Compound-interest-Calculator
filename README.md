@@ -11,7 +11,7 @@ Detailed day-wise interest schedule: The calculator generates a day-wise interes
 Validation and error handling: The input values are validated to ensure they meet the required criteria, and error handling mechanisms are implemented to handle exceptional cases.
 This project is implemented in [programming language], making use of [relevant libraries or frameworks]. The code is well-documented, ensuring easy understanding and modification. It serves as a useful tool for anyone interested in calculating compound interest for financial planning or investment purposes.
 
-#####Instructions:
+##### Instructions:
 
 Clone the repository from GitHub: [repository URL]
 Install the necessary dependencies as mentioned in the README file.
